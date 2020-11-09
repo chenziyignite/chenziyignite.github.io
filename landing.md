@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: Explore
 layout: landing
 description: 'Under construction'
-image: assets/images/pic07.jpg
+image: assets/images/pic12.jpg
 nav-menu: true
 ---
 

@@ -5,16 +5,17 @@ nav-menu: true
 ---
 
 <!-- Main -->
-<div id="main" class="alt">
 
+<div id="main" class="alt">
 <!-- One -->
+
 <section id="one">
 	<div class="inner">
 		<header class="major">
 			<h1>Elements</h1>
 		</header>
-
 <!-- Content -->
+
 <h2 id="content">Sample Content</h2>
 <p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
@@ -72,17 +73,17 @@ Finally, this is a <a href="#">link</a>.</p>
 			<li>Sagittis lorem eleifend.</li>
 			<li>Felis dolore viverra.</li>
 		</ul>
-
+	
 		<h4>Alternate</h4>
 		<ul class="alt">
 			<li>Dolor etiam magna etiam.</li>
 			<li>Sagittis lorem eleifend.</li>
 			<li>Felis feugiat viverra.</li>
 		</ul>
-
+	
 	</div>
 	<div class="6u$ 12u$(small)">
-
+	
 		<h4>Ordered</h4>
 		<ol>
 			<li>Dolor etiam magna etiam.</li>
@@ -92,7 +93,7 @@ Finally, this is a <a href="#">link</a>.</p>
 			<li>Etiam vel lorem sed viverra.</li>
 			<li>Felis dolore viverra.</li>
 		</ol>
-
+	
 		<h4>Icons</h4>
 		<ul class="icons">
 			<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
@@ -107,7 +108,7 @@ Finally, this is a <a href="#">link</a>.</p>
 			<li><a href="#" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
 			<li><a href="#" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
 		</ul>
-
+	
 	</div>
 </div>
 
@@ -362,6 +363,7 @@ Finally, this is a <a href="#">link</a>.</p>
 
 <h4>Fit</h4>
 <span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
+
 <div class="box alt">
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="{% link assets/images/pic08.jpg %}" alt="" /></span></div>
@@ -391,7 +393,6 @@ Finally, this is a <a href="#">link</a>.</p>
 <!-- Preformatted Code -->
 <h3>Preformatted</h3>
 <pre><code>i = 0;
-
 while (!deck.isInOrder()) {
     print 'Iteration ' + i;
     deck.shuffle();
