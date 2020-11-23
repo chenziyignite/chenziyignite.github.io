@@ -3,7 +3,7 @@ title: Explore
 layout: landing
 description: 'Under construction'
 image: assets/images/pic12.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->

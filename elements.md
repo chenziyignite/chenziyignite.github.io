@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Elements
-nav-menu: true
+title: Secret
+description: Under construction
+nav-menu: false
 ---
 
 <div id="main" class="alt">

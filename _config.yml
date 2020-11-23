@@ -2,7 +2,7 @@
 title: Blog
 subtitle: by Ziyi Chen
 email: chenziyi0929@gmail.com
-description: This is Ziyi Chen's personal website<br /> Hope you may like it:)
+description: Welcome to Ziyi Chen's personal website<br /> I hope you enjoy it:)
 baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -11,7 +11,7 @@ city: Wuhan
 state: Hubei
 zip_code: 
 country: <br />the People's Republic of China
-phone: (under construction)
+phone: 158xxxxxx67
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
