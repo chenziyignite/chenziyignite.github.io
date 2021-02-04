@@ -4,37 +4,6 @@ title: Secret
 description: Under construction
 nav-menu: false
 ---
-
-<div id="main" class="alt">
-    <section id="one">
-        <div class="inner">
-            <header class="major">
-                <h1>K-BERT</h1>
-            </header>
-            <h2 id="intro">Intro</h2>
-            <p>
-                这篇Paper的题目是K-BERT: Enabling Language Representation with Knowledge Graph，是由北大、腾讯研究院和北师大联合发表在AAAI2020上的一篇long paper。顾名思义，K-BERT的K指的就是Knowledge，这篇paper也代表了研究NLU相关问题的一种思路，就是在语言模型中嵌入独立于task本身的外部知识，通常可以利用知识库和知识图谱等，从而增强语言模型的能力来提高下游任务的表现。
-            </p>
-            <h2 id="motiv">Motivation</h2>
-            <p>
-                运用外部知识的原因很直观。通常情况下的预训练语言模型，比如Google BERT，都是在开放域的语料下进行预训练的。开放域意味着语料的主题很广泛，比如Wikipedia dump就是一种开放域的语料。而如果当前的NLU task是一个与某一特定领域很相关的问题，比如仅仅是关于医学知识的一些文本理解，这类语言模型就只能在fine-tune的时候才可以学习该领域有关的语料，这显然是不充分的。<u>那怎么把领域相关的知识“告诉”语言模型呢？</u>有一种想法是把领域相关的语料拿去给模型预训练，但问题是某些医学词汇极为生僻，可能模型需要很多很多语料才能学到某一个专有名词的含义，这显然是低效且不现实的。因此，作者想到把知识图谱中的三元组输入给模型，同时为了避免计算资源的缺乏，作者只在fine-tune阶段利用了知识图谱。
-            </p>
-            <div class="row">
-                <div class="6u 12u$(small)">
-                    <p>
-                        fksldjflkdsjf;ds
-                    </p>
-                </div>
-                <div class="6u$ 12u$(small)">
-
-                </div>
-
-
-            </div>
-        </div>
-    </section>
-</div>
-
 <div id="main" class="alt">
 <!-- One -->
 
@@ -77,8 +46,8 @@ nav-menu: false
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
-
 <!-- Text stuff -->
+
 <h3>Text</h3>
 <p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
 This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.

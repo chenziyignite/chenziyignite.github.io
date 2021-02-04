@@ -1,7 +1,7 @@
 # site settings
-title: Blog
-subtitle: by Ziyi Chen
-email: chenziyi0929@gmail.com
+title: Ziyi's Blog
+subtitle:
+email: z1chen@whu.edu.cn
 description: Welcome to Ziyi Chen's personal website<br /> I hope you enjoy it:)
 baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -11,7 +11,8 @@ city: Wuhan
 state: Hubei
 zip_code: 
 country: <br />the People's Republic of China
-phone: 158xxxxxx67
+phone:
+wechatID: whu_cse_czy
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
