@@ -24,7 +24,7 @@ As a reminder, a *binary search tree* is a tree that satisfies these constraints
 
 ## 分析
 
-<center><img src="..\assets\images\day9.png" alt="image-20210210102721131" style="zoom:67%;" /></center>
+<center><img src="..\assets\images\day9.png" style="zoom:67%;" /></center>
 
 <center><i>从此以后，只对比较有价值的题进行更新</i></center>
 
