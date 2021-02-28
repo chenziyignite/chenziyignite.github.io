@@ -4,8 +4,6 @@ description: a little bit of game...
 nav-menu: true
 ---
 
-<html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name = "viewport" content = "width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
@@ -55,5 +53,4 @@ nav-menu: true
         </div>
     </div>
     <script type="text/javascript" src="assets/js/2048.js"></script>
-</body>
-</html>
+</body
