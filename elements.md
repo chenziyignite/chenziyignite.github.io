@@ -1,7 +1,7 @@
 ---
-layout: none
+layout: page
 title: playground
-description: a little bit of game...
+description: a little bit of GaMe...
 nav-menu: true
 ---
 
