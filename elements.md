@@ -12,7 +12,7 @@ nav-menu: true
     <link rel="stylesheet" type="text/css" href="assets/css/2048.css">
 </head>
 <body>
-    <div class="game-container">
+    <div class="game-container" style="overflow: scroll;">
         <div class="container-header">
             <div class="banner">
                 <div class="scoreboard">
