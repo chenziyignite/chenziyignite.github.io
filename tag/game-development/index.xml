@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Ziyi Chen</title>
-    <link>https://chenziyignite.github.io/project/</link>
-      <atom:link href="https://chenziyignite.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Game development | Ziyi Chen</title>
+    <link>https://chenziyignite.github.io/tag/game-development/</link>
+      <atom:link href="https://chenziyignite.github.io/tag/game-development/index.xml" rel="self" type="application/rss+xml" />
+    <description>Game development</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© {2021} Ziyi Chen</copyright><lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://chenziyignite.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>Projects</title>
-      <link>https://chenziyignite.github.io/project/</link>
+      <title>Game development</title>
+      <link>https://chenziyignite.github.io/tag/game-development/</link>
     </image>
     
     <item>
